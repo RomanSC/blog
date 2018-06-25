@@ -1,3 +1,7 @@
 baseurl = "http://romanscollins.net/"
 languageCode = "en-us"
 title = "Roman S Collins"
+theme = "hyde"
+
+[params]
+    themeColor = "theme-base-0e"
