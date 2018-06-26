@@ -1,7 +1,4 @@
-baseurl = "http://romanscollins.net/"
 languageCode = "en-us"
-title = "Roman S Collins"
-theme = "hyde"
-
-[params]
-    themeColor = "theme-base-0e"
+title = "My New Hugo Site"
+baseurl = "http://example.org/"
+theme = ananke
