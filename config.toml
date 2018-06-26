@@ -1,4 +1,4 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
-theme = ananke
+title = "Roman S. Collins"
+baseurl = "http://romanscollins.net/"
+theme = "ananke"
