@@ -1,22 +1,21 @@
 baseURL = "http://romanscollins.net/"
-languageCode = "en-us"
+# languageCode = "en-us"
 title = "Roman S. Collins"
 theme = "minimal"
 # disqusShortname = "username" # delete this to disable disqus comments
 # googleAnalytics = ""
 
 [params]
-    author = "Roman S. Collins"
-    description = ""
-    githubUsername = "RomanSC"
-    accent = "black"
+    author = "Calin Tataru"
+    description = "Personal blog theme powered by Hugo"
+    githubUsername = "#"
+    accent = "red"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "C++",
-    "C", "Rust"]
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "C", "C++", "Rust"]
 
 [[menu.main]]
     url = "/"

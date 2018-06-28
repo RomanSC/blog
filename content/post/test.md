@@ -14,7 +14,6 @@
                   "Hello world!",
                   "syntax"
                  ]
-    menu = "main"
 +++
 # this is a test
 
