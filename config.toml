@@ -1,0 +1,4 @@
+baseURL = "http://romanscollins.net"
+languageCode = "en-us"
+title = "Roman S Collins"
+theme = "ga-hugo-theme"
