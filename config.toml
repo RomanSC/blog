@@ -8,10 +8,10 @@ theme = "minimal"
 [params]
     author = "Roman S. Collins"
     description = ""
-    githubUsername = "#"
-    accent = "black"
+    githubUsername = "RomanSC"
+    accent = "#272822"
     showBorder = false
-    backgroundColor = "white"
+    backgroundColor = "#f8f8f8"
     font = "Verdana"
     highlight = true
     highlightStyle = "monokai"
@@ -23,20 +23,20 @@ theme = "minimal"
     name = "Home"
     weight = 1
 
-[[menu.main]]
-    url = "/about.md"
-    name = "About"
-    weight = 2
-
 # [[menu.main]]
-#     url = "/post/"
-#     name = "Posts"
-#     weight = 3
+#     url = "/about.md"
+#     name = "About"
+#     weight = 2
+
+[[menu.main]]
+    url = "/post/"
+    name = "Blog"
+    weight = 5
 
 [[menu.main]]
     url = "/project/"
     name = "Projects"
-    weight = 4
+    weight = 6
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
