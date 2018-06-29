@@ -28,10 +28,10 @@ theme = "minimal"
     name = "About"
     weight = 2
 
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 3
+# [[menu.main]]
+#     url = "/post/"
+#     name = "Posts"
+#     weight = 3
 
 [[menu.main]]
     url = "/project/"
