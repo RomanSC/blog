@@ -5,4 +5,6 @@ menu: "main"
 weight: 3
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebEYG9godYdzU5DFvnkGFmZP_dynOZKvgjRshEJsEqavnLOw/viewform?embedded=true" width="800" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><Paste>
+Please contact me using the mailto link above, or use my contact info here:
+<a href="tel:802-490-9510">(802) 490-9510</a>
+<a href="mailto:r.s.col@gmail.com?Subject=" target="_top">r.s.col988@gmail.com</a>
