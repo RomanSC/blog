@@ -10,14 +10,16 @@ theme = "minimal"
     profilePic = "/static/img/portrait.jpg"
     description = ""
     githubUsername = "RomanSC"
-    accent = "#272822"
+    accent = "#7F63A6"
     showBorder = false
     backgroundColor = "#f8f8f8"
     font = "Verdana"
     highlight = true
-    highlightStyle = "monokai"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "C", "C++", "Rust", "Python", "JavaScript",
-                          "TypeScrypt"]
+    highlightStyle = "Github Gist"
+    highlightLanguages = ["Bash", "Fish", "Python", "Ruby",
+                          "HTML", "Markdown", "CSS", "JavaScript",
+                          "TypeScript", "Lua", "Vim Script",
+                          "C", "C++", "Rust", "Racket"]
 
 [[menu.main]]
     url = "/"
