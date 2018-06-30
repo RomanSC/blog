@@ -23,11 +23,6 @@ theme = "minimal"
     name = "Home"
     weight = 1
 
-# [[menu.main]]
-#     url = "/about.md"
-#     name = "About"
-#     weight = 2
-
 [[menu.main]]
     url = "/post/"
     name = "Blog"
@@ -44,8 +39,13 @@ theme = "minimal"
 
 [[menu.icon]]
     url = "mailto:r.s.col988@gmail.com"
-    name = "envelope-o"
+    name = "envelope"
     weight = 1
+
+[[menu.icon]]
+    url = "tel:802-490-9510"
+    name = "phone"
+    weight = 2
 
 [[menu.icon]]
     url = "https://github.com/RomanSC/"
