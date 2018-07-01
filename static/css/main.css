@@ -39,8 +39,8 @@ main {
 }
 
 .intro > .profile {
-    width: 10vh;
-    height: 10vh;
+    width: 20vh;
+    height: 20vh;
     border-radius: 50%;
 }
 
@@ -101,4 +101,18 @@ img {
 
 .copyright.text-muted {
     display: none;
+}
+
+.about-portrait, img {
+    border-radius: 100%;
+    max-width: 50%;
+    max-height: 50$;
+}
+
+.about-portrait {
+    margin-left: 37%;
+}
+
+.about-my-site-sub {
+    color: #7F63A6;
 }

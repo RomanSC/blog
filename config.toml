@@ -7,19 +7,19 @@ theme = "minimal"
 
 [params]
     author = "Roman S. Collins"
-    profilePic = "/static/img/portrait.jpg"
+    profilePic = "/img/portrait.jpg"
     description = ""
     githubUsername = "RomanSC"
     accent = "#7F63A6"
-    showBorder = false
+    showBorder = true
     backgroundColor = "#f8f8f8"
-    font = "Verdana"
+    font = "Fira Sans"
     highlight = true
-    highlightStyle = "Github Gist"
+    highlightStyle = "github-gist"
     highlightLanguages = ["Bash", "Fish", "Python", "Ruby",
                           "HTML", "Markdown", "CSS", "JavaScript",
-                          "TypeScript", "Lua", "Vim Script",
-                          "C", "C++", "Rust", "Racket"]
+                          "TypeScript", "Lua", "Vim", "C",
+                          "C++", "Rust", "Racket"]
 
 [[menu.main]]
     url = "/"
