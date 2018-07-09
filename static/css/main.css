@@ -116,3 +116,10 @@ img {
 .about-my-site-sub {
     color: #7F63A6;
 }
+
+.project-footer, footer {
+    position: absolute !important;
+    bottom: 0px !important;
+    left: 0px !important;
+    width: 100% !important;
+}
